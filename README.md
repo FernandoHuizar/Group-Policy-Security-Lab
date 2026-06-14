@@ -47,6 +47,7 @@ Applied desktop restrictions to Finance and HR departments handling sensitive da
 Prevented users from changing desktop background
 Prevented users from changing screen saver
 Blocked access to command prompt for non-technical users
+
 <img width="881" height="684" alt="image" src="https://github.com/user-attachments/assets/3a42d52a-cd3e-4139-a703-07816aab4927" />
 
 
