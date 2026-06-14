@@ -1,6 +1,3 @@
-Now we write the README. Click the pencil icon to edit the README file that was created.
-Paste this in:
-
 Group Policy Security Lab
 Overview
 Designed and implemented enterprise Group Policy Objects (GPOs) on a Windows Server 2022 domain controller to enforce security controls across a multi-department Active Directory environment with 400+ users. All policies were built to reflect real-world compliance and security hardening standards used in enterprise environments.
